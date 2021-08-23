@@ -10,9 +10,9 @@
     "homepage": "https://github.com/MartinMulder/vmware-php",
     "license": "MIT",
     "require": {
-        "php": "7.*",
+        "php": "8.*",
         "ext-json": "*",
-        "guzzlehttp/guzzle": "6.*"
+        "guzzlehttp/guzzle": "7.*"
     },
     "autoload": {
         "psr-4": {
